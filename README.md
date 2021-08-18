@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JanKrl
+- 👀 I’m interested in crossfit, new technologies, space science and engineering, outdoor, motorcycles, nature, stargazing
+- 🌱 I’m currently learning data analysis
+- 💞️ I’m looking to collaborate on ... we'll see
+- 📫 How to reach me via e-mail
