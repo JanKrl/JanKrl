@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ... we'll see
 - 📫 How to reach me via e-mail
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankrl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankrl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
