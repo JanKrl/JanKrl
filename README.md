@@ -3,7 +3,7 @@
 - 👀 I’m interested in crossfit, new technologies, space science and engineering, outdoor, motorcycles, nature, stargazing
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ... we'll see
-- 📫 You can find me on [Twitter](https://twitter.com/jan_krl) or on [LinkedIn](https://www.linkedin.com/in/jan-kral-77b33b135/)
+- 📫 You can find me on [Twitter](https://twitter.com/jan_krl), [LinkedIn](https://www.linkedin.com/in/jan-kral-77b33b135/) and [Kaggle](https://www.kaggle.com/janekkral)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankrl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
