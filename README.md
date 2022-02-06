@@ -20,6 +20,10 @@
 
 I use [Scrapy](https://scrapy.org/) library to run a spider and scap infomration from the web. At current stage I collect information for analysis. Insights report and further features are coming soon!
 
+## Coming soon...
+I am currently working with Poland-based company on data consultancy project. It involves data analysis and developing ML product.
+I will be able to share some insights once product is in production.
+
 ## My GitHub activity
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankrl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
