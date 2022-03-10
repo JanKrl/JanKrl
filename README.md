@@ -7,13 +7,13 @@
 - 💞️ I’m looking to collaborate on data projects
 - 📫 You can find me on [Twitter](https://twitter.com/jan_krl), [LinkedIn](https://www.linkedin.com/in/jan-kral-77b33b135/) and [Kaggle](https://www.kaggle.com/janekkral)
 
+## Colaborative project
+[Driver Drowsiness Detection](https://github.com/Jackfn96/3DS) is a colaborative project with [CORE for Tech&trade;](https://corefortech.com/en/) to detect early stage of drowsiness and promt driver to take a rest.
+
 ## Private project
 [Funda Scrap](https://github.com/JanKrl/funda_scrap) is a tool to collect information about housing offers at [Funda.nl](http://funda.nl/en)
 
 I use [Scrapy](https://scrapy.org/) library to run a spider and scap infomration from the web. At current stage I collect information for analysis. Insights report and further features are coming soon!
-
-## Colaborative project
-[Driver Drowsiness Detection](https://github.com/Jackfn96/3DS) is a colaborative project with [CORE for Tech&trade;](https://corefortech.com/en/) to detect early stage of drowsiness and promt driver to take a rest.
 
 ## Coming soon...
 I am currently working with Poland-based company on data consultancy project. It involves data analysis and developing ML product.
